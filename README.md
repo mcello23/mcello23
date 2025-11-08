@@ -2,7 +2,7 @@
 
 Hey there! I'm **Marcelo Costa**, a passionate QA Engineer and Automation Tester based in Madrid, Spain 🇪🇸 (originally from Brazil 🇧🇷). I'm a **Cypress Ambassador** and I love building robust, efficient test automation frameworks. When I'm not writing tests, you can find me exploring the latest testing tools and contributing to the QA community.
 
-> **Note:** This is my personal GitHub profile. I also had a professional account ([@MarceloCosta-Facephi](https://github.com/MarceloCosta-Facephi)) where I contributed to enterprise projects and internal automation frameworks during my time at Facephi.
+> **Note:** This is my personal GitHub profile. I also had a professional account ([@MarceloCosta-Facephi](https://github.com/MarceloCosta-Facephi)) where I contributed to enterprise projects and internal automation frameworks during my time at Facephi. Additionally, I have extensive experience with Azure DevOps for enterprise CI/CD and project management.
 
 ## 🌐 Connect with me
 
@@ -25,30 +25,43 @@ Hey there! I'm **Marcelo Costa**, a passionate QA Engineer and Automation Tester
 - TypeScript 💙
 - Python 🐍
 
-**DevOps & Tools:**
-- Git & GitHub
-- CI/CD Pipelines
-- Docker
-- Jenkins / GitHub Actions
+**DevOps & CI/CD:**
+- ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) **Azure DevOps** - Pipelines, Repos, Boards
+- Git & GitHub / Azure Repos
+- CI/CD Pipeline Design & Implementation
+- Docker & Containerization
+- Jenkins / GitHub Actions / Azure Pipelines
+
+**Cloud & Tools:**
+- Microsoft Azure
+- Azure Test Plans
+- Azure Artifacts
 
 ## 👨‍💻 Professional Experience
 
-**GitHub Activity Across Accounts:**
+**Development Activity Across Platforms:**
 
-📊 **[@mcello23](https://github.com/mcello23)** - Personal & Open Source
+📊 **[@mcello23](https://github.com/mcello23)** - Personal & Open Source (GitHub)
 - Community contributions and learning projects
 - Cypress Ambassador activities
 - Open source testing frameworks
 
-🏢 **[@MarceloCosta-Facephi](https://github.com/MarceloCosta-Facephi)** - Professional Work at Facephi
+🏢 **[@MarceloCosta-Facephi](https://github.com/MarceloCosta-Facephi)** - Professional Work at Facephi (GitHub)
 - Enterprise biometric authentication testing
 - Internal test automation frameworks
 - Production-grade E2E test suites
 - Private repository contributions
 
-![Combined Experience](https://img.shields.io/badge/Combined_Commits-1000+-success?style=for-the-badge)
+☁️ **Azure DevOps** - Enterprise Projects (Private)
+- CI/CD pipeline development and maintenance
+- Test automation integration with Azure Pipelines
+- Work item tracking and sprint management
+- Git repository management (Azure Repos)
+- Extensive commits and contributions in private enterprise environments
+
+![Combined Experience](https://img.shields.io/badge/Combined_Commits-2000+-success?style=for-the-badge)
 ![Years Active](https://img.shields.io/badge/Years_Active-5+-blue?style=for-the-badge)
-![Accounts](https://img.shields.io/badge/GitHub_Accounts-2-orange?style=for-the-badge)
+![Platforms](https://img.shields.io/badge/Platforms-GitHub_+_Azure_DevOps-orange?style=for-the-badge)
 
 ## 🏆 GitHub Stats (Personal Account)
 
@@ -82,13 +95,26 @@ Hey there! I'm **Marcelo Costa**, a passionate QA Engineer and Automation Tester
 - 📚 Exploring new testing tools and methodologies
 - 🔧 Improving test reliability and maintainability
 - 🔐 Expanding expertise in security testing
+- ☁️ Leveraging Azure DevOps for enterprise automation
 
 ## 💼 Professional Highlights
 
 - ✅ **Cypress Ambassador** - Contributing to the Cypress community
-- 🏢 **Facephi** - QA Engineer specializing in biometric authentication testing
+- 🏢 **QA Engineer** - Specializing in biometric authentication testing
+- ☁️ **Azure DevOps Expert** - CI/CD pipelines, test automation integration, and DevOps practices
 - 🌍 **International Experience** - Brazil 🇧🇷 → Spain 🇪🇸
-- 📈 **Multiple GitHub Accounts** - Maintaining separation between personal and professional work
+- 📈 **Multi-Platform Developer** - GitHub, Azure DevOps, and enterprise version control systems
+
+## 🛠️ Azure DevOps Expertise
+
+While my Azure DevOps contributions are in private enterprise environments, I have extensive experience with:
+
+- 🔄 **Azure Pipelines** - Building and maintaining CI/CD pipelines for test automation
+- 🧪 **Azure Test Plans** - Test case management and execution tracking
+- 📦 **Azure Repos** - Git repository management and branching strategies
+- 📊 **Azure Boards** - Agile project management, sprint planning, and work item tracking
+- 🔧 **Pipeline Integration** - Integrating Cypress, Playwright, and other testing frameworks
+- 📈 **Reporting** - Custom dashboards and test result reporting
 
 ## 💬 Ask Me About
 
@@ -101,6 +127,9 @@ Feel free to reach out if you want to discuss:
 - Enterprise testing infrastructure
 - Biometric authentication testing
 - Managing multiple GitHub profiles for work/personal projects
+- **Azure DevOps best practices and CI/CD pipeline design**
+- **Integrating test automation with Azure Pipelines**
+- **Migration from Azure DevOps to GitHub (or vice versa)**
 
 ## 📈 Profile Stats
 
@@ -110,14 +139,21 @@ Feel free to reach out if you want to discuss:
 
 </div>
 
+## 🎯 Featured Projects
+
 ### Personal Projects
 - Check out my pinned repositories below for my latest work!
 
 ### Professional Work
-- For professional enterprise projects, see [@MarceloCosta-Facephi](https://github.com/MarceloCosta-Facephi)
+- **GitHub:** [@MarceloCosta-Facephi](https://github.com/MarceloCosta-Facephi)
+- **Azure DevOps:** Extensive private enterprise contributions (not publicly visible)
 
 ---
 
 <div align="center">
 
-⭐️ From [mcello23](https://github.com/mcello23) | Cypress Ambassador 🌲 | QA Engineer @Board
+⭐️ From [mcello23](https://github.com/mcello23) | Cypress Ambassador 🌲 | QA Engineer
+
+**Professional Work:** [@MarceloCosta-Facephi](https://github.com/MarceloCosta-Facephi) | Azure DevOps (Private)
+
+</div>
