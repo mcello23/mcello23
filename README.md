@@ -6,7 +6,7 @@ Hey there! I'm **Marcelo Costa**, a passionate QA Engineer and Automation Tester
 
 ## 🌐 Connect with me
 
-[![Website](https://img.shields.io/badge/Website-mcello23.github.io-blue?style=flat-square&logo=google-chrome)](https://mcello23.github.io/webpage/)
+[![Website](https://img.shields.io/badge/Website-mcello23.github.io-blue?style=flat-square&logo=google-chrome)](https://marcelocosta.pages.dev/)
 [![GitHub Personal](https://img.shields.io/badge/GitHub-mcello23-181717?style=flat-square&logo=github)](https://github.com/mcello23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
 
